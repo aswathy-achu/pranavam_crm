@@ -1,0 +1,15 @@
+.att-absent{
+    color: #c82333;
+    font-weight: 900;
+}
+.att-present{
+    color: #00d25b;
+    font-weight: 900;
+}
+.att-none{
+    color: #ffab00;
+    font-weight: 900;
+}
+.att-off{
+    font-weight: 900;
+}
